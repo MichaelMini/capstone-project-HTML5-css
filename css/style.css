@@ -136,6 +136,8 @@ header {
 
 .header-photo img {
   display: block;
+  max-width: 100%;
+  height:auto;
 }
 
 .main-nav {
